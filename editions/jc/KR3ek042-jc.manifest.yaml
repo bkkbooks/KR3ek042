@@ -27,15 +27,10 @@ assets:
   - {seq: 3, filename: KR3ek042_003-jc.yaml, hash: 'sha256:c36ffa8bfd63ee10637e8b37edc80550f57fbd0fb0cf09fd09a5455dd5e013d6'}
   - {seq: 0, filename: KR3ek042_000-jc.yaml, hash: 'sha256:4880ce2fcaa92bf03dc0de1ec4b1988bf19760406527b78ac6077917d9a6d8f9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek042_000-jc.markers.yaml, hash: 'sha256:81b0a0dbb52476e47f756b8e4eb3d51ad47e1f4b319c7accb9414ed5c6f1ba5c'}
-  - {seq: 1, role: markers, filename: assets/KR3ek042_001-jc.markers.yaml, hash: 'sha256:7e22c00572d0b752dbd2f5d7d5e26b2fb31ce79f267f917ecaf1db0ce374e1b4'}
-  - {seq: 2, role: markers, filename: assets/KR3ek042_002-jc.markers.yaml, hash: 'sha256:eea31cd812738c6311d26b673fc53260b51315116d73c67013b6d40594332bf9'}
-  - {seq: 3, role: markers, filename: assets/KR3ek042_003-jc.markers.yaml, hash: 'sha256:861e8d6753e818c68f535896d499e29f10e92e33caac8aca15d33d04a8629671'}
-  - {seq: 0, role: markers, filename: assets/KR3ek042_000-jc.markers.yaml, hash: 'sha256:81b0a0dbb52476e47f756b8e4eb3d51ad47e1f4b319c7accb9414ed5c6f1ba5c'}
-  - {seq: 1, role: markers, filename: assets/KR3ek042_001-jc.markers.yaml, hash: 'sha256:7e22c00572d0b752dbd2f5d7d5e26b2fb31ce79f267f917ecaf1db0ce374e1b4'}
-  - {seq: 2, role: markers, filename: assets/KR3ek042_002-jc.markers.yaml, hash: 'sha256:eea31cd812738c6311d26b673fc53260b51315116d73c67013b6d40594332bf9'}
-  - {seq: 3, role: markers, filename: assets/KR3ek042_003-jc.markers.yaml, hash: 'sha256:861e8d6753e818c68f535896d499e29f10e92e33caac8aca15d33d04a8629671'}
-  - {seq: 0, role: markers, filename: assets/KR3ek042_000-jc.markers.yaml, hash: 'sha256:81b0a0dbb52476e47f756b8e4eb3d51ad47e1f4b319c7accb9414ed5c6f1ba5c'}
+  - {seq: 0, role: markers, filename: assets/KR3ek042_000-jc.markers.yaml, hash: 'sha256:1ace8e7df85460f3488d2716e8263ac09ca7115a7be9c7d4d272f848df97c809'}
+  - {seq: 1, role: markers, filename: assets/KR3ek042_001-jc.markers.yaml, hash: 'sha256:49a5bee1f11d7599cfe76ab7a32c00d6bc0c31aa6bf641fce9a9638f642b2782'}
+  - {seq: 2, role: markers, filename: assets/KR3ek042_002-jc.markers.yaml, hash: 'sha256:4d4e24b2da8a9f43fb42a9b644133557dd58ce0c0762998a4be2959cd870cfdd'}
+  - {seq: 3, role: markers, filename: assets/KR3ek042_003-jc.markers.yaml, hash: 'sha256:9523c75ce75c465aa69601d91516328872cba9c25980f090c7d0c10c3023bbff'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1217,4 +1212,4 @@ table_of_contents:
   label: 家用膏丹丸散方
   type: section
   level: 1
-hash: sha256:bca80cb3f73c4cd70404f2b7d352e512a05219bbe9c469a783cb89dcf546fa29
+hash: sha256:55278d056391a92c93d3eebe7334ee137411d78136c522aaf6c258ee5116bc89
